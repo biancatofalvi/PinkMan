@@ -11,6 +11,8 @@
 <p> Pink Man is lost in the clouds! Help him gain energy to go down on Earth by collecting pineapples. You need 120 points to win! </p>
 <p> Game made with vite and phaser. </p>
 
+![](https://github.com/biancatofalvi/PinkMan/blob/main/demo.gif)
+
 ---
 
 <details open="open">
