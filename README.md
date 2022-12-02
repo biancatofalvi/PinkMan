@@ -8,7 +8,8 @@
 
 ## 🚀 About
 
-<p> Pink Man is lost in the clouds! Help him gain energy to go down on Earth by collecting pineapples. You need 120 points to win! Game made with react and phaser. </p>
+<p> Pink Man is lost in the clouds! Help him gain energy to go down on Earth by collecting pineapples. You need 120 points to win! </p>
+<p> Game made with react and phaser. </p>
 
 ---
 
@@ -41,28 +42,32 @@ npm install phaser
 ```
 npm run dev
 
+```
+
 Click on local URL
 
 Play the game
 
-```
+
 
 </details>
 
 ---
 
 <details open="open">
-  <summary><h2 style="display: inline-block"> 
+  <summary><h2 style="display: inline-block">
 
 </h2></summary>
 
-Created by Bianca T. 
+Created by Bianca T.
 
 Credits to:
-Pixel Adventure
-szadiart
-JDWasabi
-cicifyre
-edermunizz
+<ul>
+  <li> Pixel Adventure</li>
+  <li> szadiart</li>
+  <li> JDWasabi</li>
+  <li> cicifyre</li>
+  <li> edermunizz</li>
+</ul>
 
 </details>
