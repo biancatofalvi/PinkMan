@@ -34,7 +34,7 @@ npm install phaser
 ---
 
 <details open="open">
-  <summary><h2 style="display: inline-block"> 💻 Usage (runs devserver)
+  <summary><h2 style="display: inline-block"> 💻 Usage
 </h2></summary>
 
 > How to use :
